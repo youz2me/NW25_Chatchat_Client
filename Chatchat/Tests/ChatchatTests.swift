@@ -1,8 +1,15 @@
+//
+//  ChatchatTests.swift
+//  Chatchat
+//
+//  Created by Youjin Lee on 11/15/25.
+//
+
 import Foundation
 import XCTest
 
 final class ChatchatTests: XCTestCase {
-    func test_twoPlusTwo_isFour() {
-        XCTAssertEqual(2+2, 4)
+    func test_example() {
+        XCTAssertTrue(true)
     }
 }
