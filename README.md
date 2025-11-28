@@ -8,6 +8,20 @@
 
 <br>
 
+<div align="center">
+    
+|   채팅, 귓속말   |
+| :----------: |
+| <img width= "600" src = "https://github.com/user-attachments/assets/2c0f2f69-8165-4b28-b1f0-0d55f0dbd876"> |
+
+</div>
+
+|  회원가입   |  로그인  |   비밀번호 찾기   |
+| :----------: | :----------: | :----------: |
+| <img src = "https://github.com/user-attachments/assets/357ce194-41d0-4cb8-9f02-a9013895e400"> | <img src = "https://github.com/user-attachments/assets/39800562-24a6-428e-9c3e-0cc995974b83"> | <img src = "https://github.com/user-attachments/assets/8dfb230b-c280-49e9-990a-b0e0a0f31253"> |
+
+<br>
+
 ## 📚 주요 기능
 
 - **실시간 채팅**: TCP Socket 기반 양방향 통신
